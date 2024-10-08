@@ -1,0 +1,7 @@
+User-agent: Googlebot
+Disallow: /nogooglebot/
+
+User-agent: *
+Allow: /
+
+"Check Commit History, Commited Code is Obfuscated Javascript run that into console and get flag"
